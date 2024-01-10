@@ -3,12 +3,13 @@ This is a console-based implementation of the Mastermind game. The program gener
 
 Requirements
 Python 3.6
+
 Instructions
 Clone or download this repository to your computer.
 Open a terminal and navigate to the directory where the program is located.
 Run the following command to start the game:
 Copy
-python mastermind.py
+python mastermind.py or python3 matermind.py
 
 Follow the on-screen instructions to play the game.
 Try to guess the hidden code by entering the corresponding colors as prompted.
